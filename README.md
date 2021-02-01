@@ -6,9 +6,9 @@ The loss function gets its code from [Link](https://github.com/HanxunH/Active-Pa
 
 Links to relevant comparison methods are shown below.
 * [SSRN  Spectral-spatial residualnetwork for hyperspectral image classification: A 3-D deep learning framework](https://github.com/zilongzhong/SSRN)
-* [DPNLD  Density Peak-based Noisy Label Detection for Hyperspectral Image Classification] (https://github.com/xf-zh/Density-Peak-based-Noisy-Label-Detection-for-Hyperspectral-Image-Classification)
-* [RLPA   Hyperspectral image classification in the presence of noisy labels] (https://github.com/junjun-jiang/RLPA)
-* [K-SDP  Spatial density peak clustering for hyperspectral image classification with noisy labels] (https://github.com/Li-ZK/DCRN-2021/SDP)
+* [DPNLD  Density Peak-based Noisy Label Detection for Hyperspectral Image Classification](https://github.com/xf-zh/Density-Peak-based-Noisy-Label-Detection-for-Hyperspectral-Image-Classification)
+* [RLPA   Hyperspectral image classification in the presence of noisy labels](https://github.com/junjun-jiang/RLPA)
+* [K-SDP Spatial density peak clustering for hyperspectral image classification with noisy labels](https://github.com/Li-ZK/DCRN-2021/SDP)
 * [3D-CNN  Spectral–spatial classification of hyperspectral imagery with 3D convolutional neural network](https://github.com/mhaut/hyperspectral_deeplearning_review/tree/master/algorithms)
 
 # Requirement
